@@ -6,7 +6,7 @@ def get_connection():
         host="localhost",
         database="a3",
         user="postgres",
-        password="Adt365*98rt!55"
+        password="password" # Change to what ever your password is
     )
 
 def getAllStudents():
